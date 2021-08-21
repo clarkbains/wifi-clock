@@ -1,0 +1,7 @@
+{
+    "configuration": "xtal=80,vt=flash,exception=legacy,ssl=basic,eesz=4M2M,led=16,ip=lm2f,dbg=Disabled,lvl=None____,wipe=none,baud=460800",
+    "board": "esp8266:esp8266:nodemcuv2",
+    "sketch": "Clock_LCD.ino",
+    "port": "/dev/ttyUSB0",
+    "output": "/tmp/ardubuild-clock"
+}

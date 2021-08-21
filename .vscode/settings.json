@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "typeinfo": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "numeric": "cpp"
+    }
+}
